@@ -13,6 +13,10 @@ Masonry
 Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 https://github.com/SnapKit/Masonry
 
+### ActionSheet相关
+pod 'ActionSheetPicker-3.0'
+https://github.com/skywinder/ActionSheetPicker-3.0
+
 ### Alert 提醒对话相关
 MBProgressHUD + Customizations 
 https://github.com/jdg/MBProgressHUD
