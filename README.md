@@ -21,6 +21,11 @@ https://github.com/skywinder/ActionSheetPicker-3.0
 MBProgressHUD + Customizations 
 https://github.com/jdg/MBProgressHUD
 
+PopupDialog
+A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style. 
+oc,swift都支持
+https://github.com/Orderella/PopupDialog
+
 ### UIStatusBar
 增加隐藏功能
 https://github.com/listenzz/HBDStatusBar
